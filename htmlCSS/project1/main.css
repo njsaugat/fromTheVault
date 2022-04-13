@@ -1,0 +1,12 @@
+.header__title__footer{
+    background-color: purple;
+    color:white;
+    text-align: center;
+
+}
+.article__dimmed{
+    color: grey;
+}
+.article__para{
+    width: 50%;
+}

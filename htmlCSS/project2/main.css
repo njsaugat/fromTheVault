@@ -1,0 +1,16 @@
+.header--footer__text{
+    text-align: center;
+}
+.article__green{
+    background-color: green;
+    color: white;
+}
+
+.article__list--same--col{
+    color: aqua;
+}
+/* using of specific selector */
+
+.strike{
+    text-decoration: line-through;
+}
