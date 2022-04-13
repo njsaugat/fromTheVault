@@ -14,3 +14,7 @@
 .strike{
     text-decoration: line-through;
 }
+
+.footer__next--blog:hover{
+    color:hsla(69, 20%, 35%, 0.4)
+}
